@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1734916390 source:c:\users\abiza\onedrive\documents\file tampung tugas\tubesaka\main.cpp
+	"towerofhanoi.h"
+
+1734916374 c:\users\abiza\onedrive\documents\file tampung tugas\tubesaka\towerofhanoi.h
+	<iostream>
+	<stack>
+
